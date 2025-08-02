@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "backend"
+    },
+    {
+      "path": "dashboard"
+    },
+    {
+      "path": "client"
+    }
+  ],
+  "settings": {
+    "postman.settings.dotenv-detection-notification-visibility": false
+  }
+}
